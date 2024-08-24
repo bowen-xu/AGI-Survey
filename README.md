@@ -100,7 +100,7 @@ This survey will include not only research in the field of AGI, but also researc
  - **[Artificial Open World]** Xu, B., & Ren, Q. (2022, August). Artificial Open World for Evaluating AGI: A Conceptual Design. In International Conference on Artificial General Intelligence (pp. 452-463). Cham: Springer International Publishing. | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19907-3_43)
  - **[The Tong Test]** Peng, Y., Han, J., Zhang, Z., Fan, L., Liu, T., Qi, S., ... & Zhu, S. C. (2024). The tong test: Evaluating artificial general intelligence through dynamic embodied physical and social interactions. Engineering, 34, 12-22. | [paper](https://www.sciencedirect.com/science/article/pii/S209580992300293X/pdfft?md5=12814df6f2334a3895a81de418cbf041&pid=1-s2.0-S209580992300293X-main.pdf)
  - **[I-athlon]** Adams, S. S., Banavar, G., & Campbell, M. (2016). I-athlon: Towards a multidimensional turing test. AI Magazine, 37(1), 78-84. | [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1609/aimag.v37i1.2643)
-
+ - Wang, P. (2010, June). The evaluation of AGI systems. In 3d Conference on Artificial General Intelligence (AGI-2010) (pp. 154-159). Atlantis | Press. | [paper](https://www.researchgate.net/profile/Pei-Wang-41/publication/242783711_The_evaluation_of_AGI_systems/links/54da32360cf2970e4e7e6614/The-evaluation-of-AGI-systems.pdf)
 
 # Miscellaneous Issues
 
