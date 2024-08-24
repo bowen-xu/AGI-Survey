@@ -69,8 +69,8 @@ This survey will include not only research in the field of AGI, but also researc
    - Free Energy Principle
  - Mathematics and Computer Science
    - Logic
-   - Optimization
    - Statistics
+   - Optimization
    - Search Algorithms
    - Reinforcement Learning
 
@@ -110,7 +110,7 @@ This survey will include not only research in the field of AGI, but also researc
  - Hallucination
  - Scalability
  - Interpretability
- - Safety
  - Understanding
  - Alignment
+ - Safety
  - Consciousness
