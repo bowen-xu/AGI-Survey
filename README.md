@@ -111,3 +111,4 @@ This survey will include not only research in the field of AGI, but also researc
  - Safety
  - Understanding
  - Alignment
+ - Consciousness
