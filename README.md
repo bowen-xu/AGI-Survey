@@ -25,9 +25,9 @@ This survey will include not only research in the field of AGI, but also researc
  - Wang, P., & Goertzel, B. (2007). Introduction: Aspects of artificial general intelligence. In Advances in Artificial General Intelligence: Concepts, Architectures and Algorithms (pp. 1-16). IOS Press. | [paper](https://ebooks.iospress.nl/volumearticle/3470)
 
 
- - Wang, P.. Artificial General Intelligence — A gentle introduction. | [page](https://cis.temple.edu/~pwang/AGI-Intro.html)
-
  - Wang, P., Goertzel, B. (2012). Introduction: What Is the Matter Here?. In: Wang, P., Goertzel, B. (eds) Theoretical Foundations of Artificial General Intelligence. Atlantis Thinking Machines, vol 4. Atlantis Press, Paris. | [paper](https://link.springer.com/chapter/10.2991/978-94-91216-62-6_1)
+
+ - Wang, P.. Artificial General Intelligence — A gentle introduction. | [page](https://cis.temple.edu/~pwang/AGI-Intro.html)
 
  - Mitchell, M. (2024). Debates on the nature of artificial general intelligence. Science, 383(6689), eado7069. | [paper](https://www.science.org/doi/10.1126/science.ado7069)  
 
@@ -62,6 +62,7 @@ This survey will include not only research in the field of AGI, but also researc
    - Reasoning
    - Planning
    - Decision Making
+   - Resource Management
  - Brain Science and Neuroscience
    - Cerebral neocortex
    - Predictive Coding
