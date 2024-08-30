@@ -62,19 +62,22 @@ This survey will include not only research in the field of AGI, but also researc
      - Kim, J. (2018). Philosophy of mind (Third edition). Routledge. | [book](https://www.routledge.com/Philosophy-of-Mind/Kim/p/book/9780813344584)
  - **Linguistics**
  - **Psychology and CogSci**
-   - ***Motivation***
-     - Allport, G. W. (1937). The Functional Autonomy of Motives. The American Journal of Psychology, 50(1/4), 141–156. | [paper](https://psychclassics.yorku.ca/Allport/autonomy.htm)
+   - **[Piaget]** Müller, U., Ten Eycke, K., & Baker, L. (2015). Piaget’s Theory of Intelligence. In S. Goldstein, D. Princiotta, & J. A. Naglieri (Eds.), Handbook of Intelligence: Evolutionary Theory, Historical Perspective, and Current Concepts (pp. 137–151). Springer. ｜ [book section](https://doi.org/10.1007/978-1-4939-1562-0_10)
+
    - ***Memory***
    - ***Attention***
-   - ***Perception***
-   - ***Reasoning***
-   - ***Planning***
-   - ***Decision Making***
+   - ***Motivation***
+     - Allport, G. W. (1937). The Functional Autonomy of Motives. The American Journal of Psychology, 50(1/4), 141–156. | [paper](https://psychclassics.yorku.ca/Allport/autonomy.htm)
    - ***Resource Management***
      - Lieder, F., & Griffiths, T. L. (2019). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. The Behavioral and Brain Sciences, 43, e1. | [paper](https://doi.org/10.1017/S0140525X1900061X)
      - Wang, P. (2009). Insufficient knowledge and resources—A biological constraint and its functional implications. 2009 AAAI Fall Symposium Series. | [paper](https://cis.temple.edu/~pwang/Publication/AIKR.pdf)
        - The assumption on insufficient knowledge and resources is crucial for AI
+   - ***Planning***
+   - ***Perception***
+   - ***Reasoning***
    - ***Language***
+   - ***Decision Making***
+   - ***Development***
 
  - **Brain Science and Neuroscience**
    - ***Cerebral Neocortex***
