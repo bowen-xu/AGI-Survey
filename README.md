@@ -45,6 +45,10 @@ This survey will include not only research in the field of AGI, but also researc
  - **[Sparks of AGI]** Bubeck, S., Chandrasekaran, V., Eldan, R., Gehrke, J., Horvitz, E., Kamar, E., ... & Zhang, Y. (2023). Sparks of artificial general intelligence: Early experiments with gpt-4. arXiv preprint arXiv:2303.12712. | [paper](https://arxiv.org/pdf/2303.12712)
    - “We use AGI to refer to systems that demonstrate broad capabilities of intelligence, including reasoning, planning, and the ability to learn from experience, and with these capabilities at or above human-level.”
 
+ - [Andrew Ng's description on X](https://twitter.com/AndrewYNg/status/1766589035781202423):
+    - > The definition of AGI I use is "AI that can perform any intellectual task that a human can."
+    - Comment: This is an ill-considered definition, if an infant is of general intelligence -- infants cannot do most intellectual tasks as adults (*e.g.*, the game of Go, complex decision making, mathematics, *etc.*).
+
  - **[Levels of AGI]** Morris, M. R., Sohl-Dickstein, J., Fiedel, N., Warkentin, T., Dafoe, A., Faust, A., ... & Legg, S. (2023). Levels of AGI: Operationalizing Progress on the Path to AGI. arXiv preprint arXiv:2311.02462. | [paper](https://arxiv.org/pdf/2311.02462) 
 
  - Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547. | [paper](https://arxiv.org/pdf/1911.01547) | [code](https://github.com/fchollet/ARC-AGI) | [page](https://arcprize.org/arc)
