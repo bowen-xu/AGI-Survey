@@ -69,8 +69,6 @@ This survey will include not only research in the field of AGI, but also researc
      - Allport, G. W. (1937). The Functional Autonomy of Motives. The American Journal of Psychology, 50(1/4), 141–156. | [paper](https://psychclassics.yorku.ca/Allport/autonomy.htm)
    - ***Resource Management***
      - Lieder, F., & Griffiths, T. L. (2019). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. The Behavioral and Brain Sciences, 43, e1. | [paper](https://doi.org/10.1017/S0140525X1900061X)
-     - Wang, P. (2009). Insufficient knowledge and resources—A biological constraint and its functional implications. 2009 AAAI Fall Symposium Series. | [paper](https://cis.temple.edu/~pwang/Publication/AIKR.pdf)
-       - The assumption on insufficient knowledge and resources is crucial for AI
    - ***Planning***
    - ***Perception***
    - ***Reasoning***
@@ -107,6 +105,8 @@ This survey will include not only research in the field of AGI, but also researc
 # Theories/Projects
 
  - Wang, P., & Goertzel, B. (Eds.). (2012). Theoretical foundations of artificial general intelligence (Vol. 4). Springer Science & Business Media. | [book](https://link.springer.com/book/10.2991/978-94-91216-62-6)
+ - Wang, P. (2009). Insufficient knowledge and resources—A biological constraint and its functional implications. 2009 AAAI Fall Symposium Series. | [paper](https://cis.temple.edu/~pwang/Publication/AIKR.pdf)
+   - The assumption on insufficient knowledge and resources is crucial for AI
  - **[Cognitive Architectures]** Kotseruba, I., Tsotsos, J.K. 40 years of cognitive architectures: core cognitive abilities and practical applications. Artif Intell Rev 53, 17–94 (2020). | [paper](https://link.springer.com/content/pdf/10.1007/s10462-018-9646-y.pdf)
    - Samsonovich, A. V. (2010). Toward a unified catalog of implemented cognitive architectures. In Biologically inspired cognitive architectures 2010 (pp. 195-244). IOS Press. | [paper](https://www.researchgate.net/profile/Alexei-Samsonovich/publication/221313271_Toward_a_Unified_Catalog_of_Implemented_Cognitive_Architectures/links/5401c2730cf2bba34c1b2145/Toward-a-Unified-Catalog-of-Implemented-Cognitive-Architectures.pdf)
    - Goertzel, B., Lian, R., Arel, I., De Garis, H., & Chen, S. (2010). A world survey of artificial brain projects, Part II: Biologically inspired cognitive architectures. Neurocomputing, 74(1-3), 30-49. | [paper](https://www.academia.edu/download/28847454/2009-A-world-survey-of-artificial-brain-projects-Part-II_Biologically-inspired-cognitive-architectures.pdf)
