@@ -70,11 +70,13 @@ This survey will include not only research in the field of AGI, but also researc
    - ***Resource Management***
      - Lieder, F., & Griffiths, T. L. (2019). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. The Behavioral and Brain Sciences, 43, e1. | [paper](https://doi.org/10.1017/S0140525X1900061X)
    - ***Planning***
+   - ***Learning***
    - ***Perception***
    - ***Reasoning***
    - ***Language***
    - ***Decision Making***
    - ***Development***
+   - ***Meta-cognition***
  - **Brain Science and Neuroscience**
    - ***Cerebral Neocortex***
    - ***Predictive Coding***
