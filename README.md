@@ -60,8 +60,10 @@ This survey will include not only research in the field of AGI, but also researc
    - ***Epistemology***
    - ***Mind and Consciousness***
      - Kim, J. (2018). Philosophy of mind (Third edition). Routledge. | [book](https://www.routledge.com/Philosophy-of-Mind/Kim/p/book/9780813344584)
+ - **Linguistics**
  - **Psychology and CogSci**
    - ***Motivation***
+     - Allport, G. W. (1937). The Functional Autonomy of Motives. The American Journal of Psychology, 50(1/4), 141–156. | [paper](https://psychclassics.yorku.ca/Allport/autonomy.htm)
    - ***Memory***
    - ***Attention***
    - ***Perception***
@@ -69,6 +71,11 @@ This survey will include not only research in the field of AGI, but also researc
    - ***Planning***
    - ***Decision Making***
    - ***Resource Management***
+     - Lieder, F., & Griffiths, T. L. (2019). Resource-rational analysis: Understanding human cognition as the optimal use of limited computational resources. The Behavioral and Brain Sciences, 43, e1. | [paper](https://doi.org/10.1017/S0140525X1900061X)
+     - Wang, P. (2009). Insufficient knowledge and resources—A biological constraint and its functional implications. 2009 AAAI Fall Symposium Series. | [paper](https://cis.temple.edu/~pwang/Publication/AIKR.pdf)
+       - The assumption on insufficient knowledge and resources is crucial for AI
+   - ***Language***
+
  - **Brain Science and Neuroscience**
    - ***Cerebral Neocortex***
    - ***Predictive Coding***
@@ -78,7 +85,21 @@ This survey will include not only research in the field of AGI, but also researc
    - ***Statistics***
    - ***Optimization***
    - ***Search Algorithms***
-   - ***Reinforcement Learning***
+   - ***Quantum Computing***
+ - **Artificial Intelligence**
+   - Approaches
+     - ***Reinforcement Learning***
+     - ***Expert Systems***
+     - ***Neural Networks***
+     - ***Bayesianism and Probabilistic Graphical Models***
+   - Subfields
+     - ***Machine Learning***
+     - ***Computer Vision***
+       - Marr, D. (1982). Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. W. H. Freeman and Company. | [book](https://people.ciirc.cvut.cz/~hlavac/pub/MiscTextForStudents/1982MarrDavidVisionBook.pdf)
+     - ***Natural Languge Processing***
+     - ***Robotics***
+     - ***Game Playing***
+     - ***Others***
 
 # Theories/Projects
 
@@ -95,7 +116,12 @@ This survey will include not only research in the field of AGI, but also researc
  - **[JEPA]** LeCun, Y. (2022). A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27. Open Review, 62(1), 1-62. | [paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)
  - **[NARS]** Wang, P. (2022, April). Intelligence: From definition to design. In International Workshop on Self-Supervised Learning (pp. 35-47). PMLR. | [paper](https://proceedings.mlr.press/v192/wang22a/wang22a.pdf) | [code](https://github.com/opennars/opennars) | [page](https://www.opennars.org/)
    - *Non-Axiomatic Reasoning System*
-   - Wang, P. (2013). Non-axiomatic logic: A model of intelligent reasoning. World Scientific. | [book](https://www.worldscientific.com/worldscibooks/10.1142/8665#t=aboutBook)
+   - **[*Logic*]** Wang, P. (2013). Non-axiomatic logic: A model of intelligent reasoning. World Scientific. | [book](https://www.worldscientific.com/worldscibooks/10.1142/8665#t=aboutBook)
+   - **[*Motivation*]** 
+     - Wang, P. (2012). Motivation Management in AGI Systems. In J. Bach, B. Goertzel, & M. Iklé (Eds.), Artificial General Intelligence (pp. 352–361). Springer. | [paper](https://doi.org/10.1007/978-3-642-35506-6_36)
+     - Hahm, C., Xu, B., & Wang, P. (2022). Goal Generation and Management in NARS. In B. Goertzel, M. Iklé, & A. Potapov (Eds.), Artificial General Intelligence (pp. 96–105). Springer International Publishing. | [paper](https://doi.org/10.1007/978-3-030-93758-4_11)
+
+
  - **[AIXI]** Legg, S., & Hutter, M. (2007). Universal intelligence: A definition of machine intelligence. Minds and machines, 17, 391-444. | [paper](https://link.springer.com/content/pdf/10.1007/s11023-007-9079-x.pdf)
   
  - **[Standard model of ACT-R/Sigma/Soar]** Laird, J. E., Lebiere, C., & Rosenbloom, P. S. (2017). A standard model of the mind: Toward a common computational framework across artificial intelligence, cognitive science, neuroscience, and robotics. Ai Magazine, 38(4), 13-26. | [paper](https://onlinelibrary.wiley.com/doi/pdf/10.1609/aimag.v38i4.2744)
