@@ -84,8 +84,10 @@ This survey will include not only research in the field of AGI, but also researc
  - **Mathematics and Computer Science**
    - ***Logic***
    - ***Statistics***
+   - ***Graph Theory***
    - ***Optimization***
    - ***Search Algorithms***
+   - ***Game Theory***
    - ***Quantum Computing***
  - **Artificial Intelligence**
    - Approaches
