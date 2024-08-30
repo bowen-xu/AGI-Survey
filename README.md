@@ -81,26 +81,27 @@ This survey will include not only research in the field of AGI, but also researc
    - ***Free Energy Principle***
  - **Mathematics and Computer Science**
    - ***Logic***
-   - ***Statistics***
+   - ***Probability and Statistics***
+   - ***Linear Algebra and Calculus***
    - ***Graph Theory***
    - ***Optimization***
    - ***Search Algorithms***
    - ***Game Theory***
    - ***Quantum Computing***
  - **Artificial Intelligence**
-   - Approaches
-     - ***Reinforcement Learning***
-     - ***Expert Systems***
-     - ***Neural Networks***
-     - ***Bayesianism and Probabilistic Graphical Models***
-   - Subfields
-     - ***Machine Learning***
-     - ***Computer Vision***
-       - Marr, D. (1982). Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. W. H. Freeman and Company. | [book](https://people.ciirc.cvut.cz/~hlavac/pub/MiscTextForStudents/1982MarrDavidVisionBook.pdf)
-     - ***Natural Languge Processing***
-     - ***Robotics***
-     - ***Game Playing***
-     - ***Others***
+   - === Approaches ===
+   - ***Reinforcement Learning***
+   - ***Expert Systems***
+   - ***Neural Networks***
+   - ***Bayesianism and Probabilistic Graphical Models***
+   - === Subfields ===
+   - ***Machine Learning***
+   - ***Computer Vision***
+     - Marr, D. (1982). Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. W. H. Freeman and Company. | [book](https://people.ciirc.cvut.cz/~hlavac/pub/MiscTextForStudents/1982MarrDavidVisionBook.pdf)
+   - ***Natural Languge Processing***
+   - ***Robotics***
+   - ***Game Playing***
+   - ***Others***
 
 # Theories/Projects
 
