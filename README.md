@@ -50,7 +50,8 @@ This survey will include not only research in the field of AGI, but also researc
     <!-- - Comment: This is an ill-considered (or, at least, misleading) definition -- (1) the definition is not proper if we admit that an infant possesses general intelligence, since infants cannot perform (without learning) most intellectual tasks that adults can (*e.g.*, playing the game of Go, complex decision making, mathematics, *etc.*); (2) If "perform" is interpreted as "learn to do", some intellectual tasks may need human-specific experience. -->
 
  - **[Levels of AGI]** Morris, M. R., Sohl-Dickstein, J., Fiedel, N., Warkentin, T., Dafoe, A., Faust, A., ... & Legg, S. (2023). Levels of AGI: Operationalizing Progress on the Path to AGI. arXiv preprint arXiv:2311.02462. | [paper](https://arxiv.org/pdf/2311.02462) 
-
+   - A related coverage: Google DeepMind wants to define what counts as artificial general intelligence, Nov 2023, MIT Technology Review. | [link](https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/)
+   - [Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) refers to DeepMind's definition (accessed on August 29, 2024), "Artificial general intelligence (AGI) is a type of artificial intelligence (AI) that matches or surpasses human capabilities across a wide range of cognitive tasks."
  - Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547. | [paper](https://arxiv.org/pdf/1911.01547) | [code](https://github.com/fchollet/ARC-AGI) | [page](https://arcprize.org/arc)
 
 # Theoretical Foundations
