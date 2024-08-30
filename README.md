@@ -47,7 +47,7 @@ This survey will include not only research in the field of AGI, but also researc
 
  - [Andrew Ng's description on X](https://twitter.com/AndrewYNg/status/1766589035781202423):
     - > The definition of AGI I use is "AI that can perform any intellectual task that a human can."
-    - Comment: This is an ill-considered definition, if an infant is of general intelligence -- infants cannot do most intellectual tasks as adults (*e.g.*, the game of Go, complex decision making, mathematics, *etc.*).
+    - Comment: This is an ill-considered (or, at least, misleading) definition, if we admit that an infant possesses general intelligence -- infants cannot perform most intellectual tasks that adults can (*e.g.*, playing the game of Go, complex decision making, mathematics, *etc.*).
 
  - **[Levels of AGI]** Morris, M. R., Sohl-Dickstein, J., Fiedel, N., Warkentin, T., Dafoe, A., Faust, A., ... & Legg, S. (2023). Levels of AGI: Operationalizing Progress on the Path to AGI. arXiv preprint arXiv:2311.02462. | [paper](https://arxiv.org/pdf/2311.02462) 
 
