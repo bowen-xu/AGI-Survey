@@ -63,7 +63,6 @@ This survey will include not only research in the field of AGI, but also researc
  - **Linguistics**
  - **Psychology and CogSci**
    - **[Piaget]** Müller, U., Ten Eycke, K., & Baker, L. (2015). Piaget’s Theory of Intelligence. In S. Goldstein, D. Princiotta, & J. A. Naglieri (Eds.), Handbook of Intelligence: Evolutionary Theory, Historical Perspective, and Current Concepts (pp. 137–151). Springer. ｜ [book section](https://doi.org/10.1007/978-1-4939-1562-0_10)
-
    - ***Memory***
    - ***Attention***
    - ***Motivation***
@@ -78,7 +77,6 @@ This survey will include not only research in the field of AGI, but also researc
    - ***Language***
    - ***Decision Making***
    - ***Development***
-
  - **Brain Science and Neuroscience**
    - ***Cerebral Neocortex***
    - ***Predictive Coding***
