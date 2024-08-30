@@ -45,7 +45,7 @@ This survey will include not only research in the field of AGI, but also researc
  - **[Sparks of AGI]** Bubeck, S., Chandrasekaran, V., Eldan, R., Gehrke, J., Horvitz, E., Kamar, E., ... & Zhang, Y. (2023). Sparks of artificial general intelligence: Early experiments with gpt-4. arXiv preprint arXiv:2303.12712. | [paper](https://arxiv.org/pdf/2303.12712)
    - “We use AGI to refer to systems that demonstrate broad capabilities of intelligence, including reasoning, planning, and the ability to learn from experience, and with these capabilities at or above human-level.”
 
- - [Andrew Ng's description on X](https://twitter.com/AndrewYNg/status/1766589035781202423):
+ - [Andrew Ng's description posted on X](https://twitter.com/AndrewYNg/status/1766589035781202423):
     - > The definition of AGI I use is "AI that can perform any intellectual task that a human can."
     - Comment: This is an ill-considered (or, at least, misleading) definition, if we admit that an infant possesses general intelligence -- infants cannot perform most intellectual tasks that adults can (*e.g.*, playing the game of Go, complex decision making, mathematics, *etc.*).
 
