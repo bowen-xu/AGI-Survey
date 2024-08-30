@@ -56,28 +56,29 @@ This survey will include not only research in the field of AGI, but also researc
 
 # Theoretical Foundations
 
- - Philosophy
-   - Epistemology
-   - Mind and Consciousness
- - Psychology and CogSci
-   - Motivation
-   - Memory
-   - Attention
-   - Perception
-   - Reasoning
-   - Planning
-   - Decision Making
-   - Resource Management
- - Brain Science and Neuroscience
-   - Cerebral neocortex
-   - Predictive Coding
-   - Free Energy Principle
- - Mathematics and Computer Science
-   - Logic
-   - Statistics
-   - Optimization
-   - Search Algorithms
-   - Reinforcement Learning
+ - **Philosophy**
+   - ***Epistemology***
+   - ***Mind and Consciousness***
+     - Kim, J. (2018). Philosophy of mind (Third edition). Routledge. | [book](https://www.routledge.com/Philosophy-of-Mind/Kim/p/book/9780813344584)
+ - **Psychology and CogSci**
+   - ***Motivation***
+   - ***Memory***
+   - ***Attention***
+   - ***Perception***
+   - ***Reasoning***
+   - ***Planning***
+   - ***Decision Making***
+   - ***Resource Management***
+ - **Brain Science and Neuroscience**
+   - ***Cerebral Neocortex***
+   - ***Predictive Coding***
+   - ***Free Energy Principle***
+ - **Mathematics and Computer Science**
+   - ***Logic***
+   - ***Statistics***
+   - ***Optimization***
+   - ***Search Algorithms***
+   - ***Reinforcement Learning***
 
 # Theories/Projects
 
@@ -112,11 +113,19 @@ This survey will include not only research in the field of AGI, but also researc
 
 # Miscellaneous Issues
 
- - Embodiment
- - Hallucination
- - Scalability
- - Interpretability
- - Understanding
- - Alignment
- - Safety
- - Consciousness
+ - **Embodiment**
+ - **Hallucination**
+ - **Scalability**
+ - **Interpretability**
+ - **Understanding**
+ - **Alignment**
+ - **Safety**
+ - **Consciousness**
+   - Chalmers, D. J. (2023). Could a Large Language Model Be Conscious? Boston Review, 1. | [page](https://www.bostonreview.net/articles/could-a-large-language-model-be-conscious/)
+   - Seth, A. (2024). Conscious artificial intelligence and biological naturalism. OSF. (PsyArXiv) | [preprint](https://doi.org/10.31234/osf.io/tz6an)
+   - Wang, P. (2020). A Constructive Explanation of Consciousness. Journal of Artificial Intelligence and Consciousness, 07(02), 257–275. | [paper](https://doi.org/10.1142/S2705078520500125)
+     - Consciousness is self-awareness and self-control
+   - Xu, B., Zhan, X., & Ren, Q. (2022). The Gap Between Intelligence and Mind. In B. Goertzel, M. Iklé, & A. Potapov (Eds.), Artificial General Intelligence (pp. 292–305). Springer International Publishing. | [paper](https://doi.org/10.1007/978-3-030-93758-4_31)
+
+
+
