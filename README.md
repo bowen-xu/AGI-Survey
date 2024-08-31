@@ -93,11 +93,16 @@ This survey will include not only research in the field of AGI, but also researc
  - **Artificial Intelligence**
    - === Approaches ===
    - ***Reinforcement Learning***
+     - Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (second edition). MIT Press. | [book](http://incompleteideas.net/book/RLbook2020.pdf)
    - ***Expert Systems***
    - ***Neural Networks***
+     - LeCun, Y., Bengio, Y. & Hinton, G. Deep learning. Nature 521, 436–444 (2015).
+     - Goodfellow, I., Bengio, Y., & Courville, A. (2016). Deep learning (Vol. 196). MIT press. | [e-textbook](https://www.deeplearningbook.org/)
+     - **[Spiking Neural Networks]** Gerstner, W., Kistler, W. M., Naud, R., & Paninski, L. (2014). Neuronal Dynamics: From Single Neurons to Networks and Models of Cognition. Cambridge University Press. | [link](https://doi.org/10.1017/CBO9781107447615)
    - ***Bayesianism and Probabilistic Graphical Models***
    - === Subfields ===
    - ***Machine Learning***
+     - Mitchell, T. M., & Mitchell, T. M. (1997). Machine learning (Vol. 1, No. 9). New York: McGraw-hill. | [textbook](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf)
    - ***Computer Vision***
      - Marr, D. (1982). Vision: A Computational Investigation into the Human Representation and Processing of Visual Information. W. H. Freeman and Company. | [book](https://people.ciirc.cvut.cz/~hlavac/pub/MiscTextForStudents/1982MarrDavidVisionBook.pdf)
    - ***Natural Languge Processing***
