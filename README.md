@@ -53,6 +53,15 @@ This survey will include not only research in the field of AGI, but also researc
    - A related coverage: Google DeepMind wants to define what counts as artificial general intelligence, Nov 2023, MIT Technology Review. | [link](https://www.technologyreview.com/2023/11/16/1083498/google-deepmind-what-is-artificial-general-intelligence-agi/)
    - [Wikipedia](https://en.wikipedia.org/wiki/Artificial_general_intelligence) refers to DeepMind's definition (accessed on August 29, 2024), "Artificial general intelligence (AGI) is a type of artificial intelligence (AI) that matches or surpasses human capabilities across a wide range of cognitive tasks."
  - Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547. | [paper](https://arxiv.org/pdf/1911.01547) | [code](https://github.com/fchollet/ARC-AGI) | [page](https://arcprize.org/arc)
+  
+![system1](./imgs/system1.jpg)
+**Figure 1.** “Causal graph” for performing tasks.
+
+![system2](./imgs/system2.jpg)
+**Figure 2.** “Human intelligence” is a *confounder*.
+
+![tasks](./imgs/tasks.jpg)
+**Figure 3.** Different types of tasks.
 
 # Theoretical Foundations
 
