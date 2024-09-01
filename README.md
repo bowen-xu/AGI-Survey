@@ -132,7 +132,7 @@ This survey will include not only research in the field of AGI, but also researc
     - *Free Energy Principle* and *Active Inference*
 
  - **[GPT-4]** Bubeck, S., Chandrasekaran, V., Eldan, R., Gehrke, J., Horvitz, E., Kamar, E., ... & Zhang, Y. (2023). Sparks of artificial general intelligence: Early experiments with gpt-4. arXiv preprint arXiv:2303.12712. | [paper](https://arxiv.org/pdf/2303.12712)
-   - A survey on from the perspective of LLMs. It contains the recent progress of LLMs (by May 2024): Feng, T., Jin, C., Liu, J., Zhu, K., Tu, H., Cheng, Z., ... & You, J. (2024). How Far Are We From AGI. arXiv preprint arXiv:2405.10313. | [paper](https://arxiv.org/abs/2405.10313).
+   - [A survey majorly from the perspective of LLMs. It contains the recent progress of LLMs (by May 2024)] Feng, T., Jin, C., Liu, J., Zhu, K., Tu, H., Cheng, Z., ... & You, J. (2024). How Far Are We From AGI. arXiv preprint arXiv:2405.10313. | [paper](https://arxiv.org/abs/2405.10313).
  - **[JEPA]** LeCun, Y. (2022). A path towards autonomous machine intelligence version 0.9. 2, 2022-06-27. Open Review, 62(1), 1-62. | [paper](https://openreview.net/pdf?id=BZ5a1r-kVsf)
  - **[NARS]** Wang, P. (2022, April). Intelligence: From definition to design. In International Workshop on Self-Supervised Learning (pp. 35-47). PMLR. | [paper](https://proceedings.mlr.press/v192/wang22a/wang22a.pdf) | [code](https://github.com/opennars/opennars) | [page](https://www.opennars.org/)
    - *Non-Axiomatic Reasoning System*
