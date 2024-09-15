@@ -63,6 +63,14 @@ This survey will include not only research in the field of AGI, but also researc
 ![tasks](./imgs/tasks.jpg)
 **Figure 3.** Different types of tasks.
 
+## Notions
+
+ - Intelligence, General Intelligence, Skill
+ - Adaptation, Generalization
+ - System, Environmnent, Agent
+
+
+
 # Theoretical Foundations
 
  - **Philosophy**
