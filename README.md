@@ -55,13 +55,13 @@ This survey will include not only research in the field of AGI, but also researc
  - Chollet, F. (2019). On the measure of intelligence. arXiv preprint arXiv:1911.01547. | [paper](https://arxiv.org/pdf/1911.01547) | [code](https://github.com/fchollet/ARC-AGI) | [page](https://arcprize.org/arc)
   
 ![system1](./imgs/system1.jpg)
-**Figure 1.** “Causal graph” for performing tasks.
+**Figure 1.a.** “Causal graph” for performing tasks.
 
 ![system2](./imgs/system2.jpg)
-**Figure 2.** “Human intelligence” is a *confounder*.
+**Figure 1.b.** “Human intelligence” is a *confounder*. ([Xu, 2024](https://openreview.net/pdf?id=3SBYJI4sv4))
 
 ![tasks](./imgs/tasks.jpg)
-**Figure 3.** Different types of tasks.
+**Figure 2.** Different types of tasks.
 
 ## Notions
 
